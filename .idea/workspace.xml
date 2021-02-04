@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="108d9531-c30f-47bb-a98c-14add243907f" name="默认的" comment="" />
+    <list default="true" id="108d9531-c30f-47bb-a98c-14add243907f" name="默认的" comment="修改git" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,8 +51,16 @@
       <updated>1612401261074</updated>
       <workItem from="1612401262150" duration="272000" />
       <workItem from="1612402256187" duration="94000" />
-      <workItem from="1612403325990" duration="130000" />
+      <workItem from="1612403325990" duration="307000" />
     </task>
+    <task id="LOCAL-00001" summary="修改git">
+      <created>1612403541595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612403541595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +77,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改git" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改git" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="547" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612403389909">
       <screen x="0" y="23" width="1440" height="833" />
@@ -79,5 +91,9 @@
     </state>
     <state x="569" y="357" key="Github.CreateGistDialog/0.23.1440.832@0.23.1440.832" timestamp="1612401294433" />
     <state x="569" y="357" key="Github.CreateGistDialog/0.23.1440.833@0.23.1440.833" timestamp="1612402284787" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1612403545783">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.833@0.23.1440.833" timestamp="1612403545783" />
   </component>
 </project>
